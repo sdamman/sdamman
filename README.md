@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<img src="https://komarev.com/ghpvc/?username=sdamman&style=flat-rounded&color=blue" alt=""/>
+
 
 <!--
 **sdamman/sdamman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
